@@ -1,0 +1,6 @@
+To run this project, you must put the "ELearningDatabase" and both "derby" and "derby.properties" inside  your NetBeans > Derby Files.
+If you couldn't find the file, you can open NetBeans and go to Services, right click Java DB to check the properties and see where the file is located.
+
+Once you have put both file inside, open your NetBeans and connect it to the Database first, it can be find under JavaDB.
+
+Onace you have connect, you are good to go! Thank you.
